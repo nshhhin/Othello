@@ -1,0 +1,5 @@
+id,turn,positionX,positionY,point
+1,BLACK,5,3,4vs1
+2,WHITE,5,2,3vs3
+3,BLACK,4,2,5vs2
+4,WHITE,5,4,3vs5
