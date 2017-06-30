@@ -3,6 +3,7 @@
 
 <div align = "center">
 <img src="https://github.com/nshhhin/Images/blob/master/othello.png" width = "500px" height = "auto">
+<p>Fig1. ScreenShot of Othello </p>
 </div>
 
 
