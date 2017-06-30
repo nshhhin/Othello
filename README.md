@@ -1,10 +1,10 @@
 # Othello
 <h3>Othello for Practicing Processing</h3>
 
+
 <div align = "center">
 <img src="https://github.com/nshhhin/Images/blob/master/othello.png" width = "500px" height = "auto">
-<p>Fig1. ScreenShot of Othello </p>
+<p>Fig1. Screenshot of the system </p>
 </div>
-
 
 
