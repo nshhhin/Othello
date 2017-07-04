@@ -1,5 +1,5 @@
 # Othello
-<h3>Othello by Processing</h3>
+<h3>Othello in Processing</h3>
 
 <li>ああ</li>
 <div align = "center">
