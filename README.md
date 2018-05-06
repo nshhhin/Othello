@@ -10,6 +10,6 @@
 </div>
 
 ## how to play this game
-- run Othello/application.macosx/Othello in Mac OS
+- run Othello/application.macosx/Othello on Mac OS
 
 
