@@ -1,6 +1,5 @@
 # Othello
-
-## Othello in Processing
+## implemented with Processing lang
 
 <p>
 <li>VS mode against a computer or person</li>
