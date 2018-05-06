@@ -1,5 +1,6 @@
 # Othello
-<h3>Othello in Processing</h3>
+
+## Othello in Processing
 
 <p>
 <li>VS mode against a computer or person</li>
