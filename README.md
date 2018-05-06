@@ -1,6 +1,4 @@
-# Othello
-## implemented with Processing lang
-
+# Othello implemented with Processing lang
 <p>
 <li>VS mode against a computer or person</li>
 </p>
